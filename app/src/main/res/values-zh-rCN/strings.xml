@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">地铁最短路径查询</string>
+    <string name="notice2">请输入终点站</string>
+    <string name="notice3">最短线路</string>
+</resources>

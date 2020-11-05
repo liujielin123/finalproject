@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="station">
+
+        <item>-站点线路-</item>
+
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>3</item>
+
+        <item>4</item>
+
+        <item>7</item>
+
+        <item>10</item>
+
+    </string-array>
+
+    <string-array name="station1">
+
+        <item>-站点-</item>
+
+        <item>升仙湖</item>
+
+        <item>火车北站</item>
+
+        <item>人民北路</item>
+
+        <item>文殊院</item>
+
+        <item>骡马市</item>
+
+        <item>天府广场</item>
+
+        <item>锦江宾馆</item>
+
+        <item>华西坝</item>
+
+        <item>省体育馆</item>
+
+        <item>倪家桥</item>
+
+        <item>桐梓林</item>
+
+        <item>火车南站</item>
+
+        <item>高新</item>
+
+        <item>金融城</item>
+
+        <item>孵化园</item>
+
+        <item>锦城广场</item>
+
+        <item>世纪城</item>
+
+        <item>天府三街</item>
+
+        <item>天府五街</item>
+
+        <item>华府大道</item>
+
+        <item>财经大学</item>
+
+        <item>四河</item>
+
+        <item>广都</item>
+
+    </string-array>
+
+    <string-array name="station2">
+
+        <item>-站点-</item>
+
+        <item>犀浦</item>
+
+        <item>天河路</item>
+
+        <item>百草路</item>
+
+        <item>金周路</item>
+
+        <item>金科北路</item>
+
+        <item>迎宾大道</item>
+
+        <item>茶店子客运站</item>
+
+        <item>羊犀立交</item>
+
+        <item>一品天下</item>
+
+        <item>蜀汉路东</item>
+
+        <item>白果林</item>
+
+        <item>中医大省医院</item>
+
+        <item>人民公园</item>
+
+        <item>春熙路</item>
+
+        <item>东门大桥</item>
+
+        <item>牛王庙</item>
+
+        <item>牛市口</item>
+
+        <item>东大路</item>
+
+        <item>塔子山公园</item>
+
+        <item>成都东客站</item>
+
+        <item>成渝立交</item>
+
+        <item>惠王陵</item>
+
+        <item>洪河</item>
+
+        <item>成都行政学院</item>
+
+        <item>大面铺</item>
+
+        <item>连山坡</item>
+
+        <item>界牌</item>
+
+        <item>书房</item>
+
+        <item>龙平路</item>
+
+        <item>龙泉驿</item>
+
+    </string-array>
+
+    <string-array name="station3">
+
+        <item>-站点-</item>
+
+        <item>南站</item>
+
+        <item>杨伍庄</item>
+
+        <item>学府工业区</item>
+
+        <item>高新区</item>
+
+        <item>大学城</item>
+
+        <item>华苑</item>
+
+        <item>王顶堤</item>
+
+        <item>红旗南路</item>
+
+        <item>周邓纪念馆</item>
+
+        <item>天塔</item>
+
+        <item>吴家窑</item>
+
+        <item>西康路</item>
+
+        <item>营口道</item>
+
+        <item>和平路</item>
+
+        <item>津湾广场</item>
+
+        <item>天津站</item>
+
+        <item>金狮桥</item>
+
+        <item>中山路</item>
+
+        <item>北站</item>
+
+        <item>铁东路</item>
+
+        <item>张兴庄</item>
+
+        <item>宜兴埠</item>
+
+        <item>天士力</item>
+
+        <item>华北集团</item>
+
+        <item>丰产河</item>
+
+        <item>小淀</item>
+
+    </string-array>
+
+    <string-array name="station5">
+
+        <item>-站点-</item>
+
+        <item>北辰科技园北</item>
+
+        <item>丹河北道</item>
+
+        <item>北辰道</item>
+
+        <item>职业大学</item>
+
+        <item>淮河道</item>
+
+        <item>辽河北道</item>
+
+        <item>宜兴埠北</item>
+
+        <item>张兴庄</item>
+
+        <item>志成路</item>
+
+        <item>思源道</item>
+
+        <item>建昌道</item>
+
+        <item>金钟河大街</item>
+
+        <item>月牙河</item>
+
+        <item>幸福公园</item>
+
+        <item>靖江路</item>
+
+        <item>成林道</item>
+
+        <item>津塘路</item>
+
+        <item>直沽</item>
+
+        <item>下瓦房</item>
+
+        <item>西南楼</item>
+
+        <item>文化中心</item>
+
+        <item>天津宾馆</item>
+
+        <item>肿瘤医院</item>
+
+        <item>体育中心</item>
+
+        <item>凌宾路</item>
+
+        <item>昌凌路</item>
+
+        <item>中医一附院</item>
+
+        <item>李七庄南</item>
+
+    </string-array>
+
+
+
+    <string-array name="station6">
+
+        <item>-站点-</item>
+
+        <item>南孙庄</item>
+
+        <item>南何庄</item>
+
+        <item>大毕庄</item>
+
+        <item>金钟街</item>
+
+        <item>徐庄子</item>
+
+        <item>金钟河大街</item>
+
+        <item>民权门</item>
+
+        <item>北宁公园</item>
+
+        <item>北站</item>
+
+        <item>新开河</item>
+
+        <item>外院附中</item>
+
+        <item>天泰路</item>
+
+        <item>北运河</item>
+
+        <item>北竹林</item>
+
+        <item>西站</item>
+
+        <item>复兴路</item>
+
+        <item>人民医院</item>
+
+        <item>长虹公园</item>
+
+        <item>宜宾道</item>
+
+        <item>鞍山西道</item>
+
+        <item>天拖</item>
+
+        <item>一中心医院</item>
+
+        <item>红旗南路</item>
+
+        <item>迎风道</item>
+
+        <item>南翠屏</item>
+
+        <item>水上公园东路</item>
+
+        <item>肿瘤医院</item>
+
+        <item>天津宾馆</item>
+
+        <item>文化中心</item>
+
+        <item>乐园道</item>
+
+        <item>尖山路</item>
+
+        <item>黑牛城道</item>
+
+        <item>梅江道</item>
+
+        <item>左江道</item>
+
+        <item>梅江公园</item>
+
+        <item>梅江会展中心</item>
+
+        <item>解放南路</item>
+
+        <item>洞庭路</item>
+
+        <item>梅林路</item>
+
+    </string-array>
+
+    <string-array name="station9">
+
+        <item>-站点-</item>
+
+        <item>天津站</item>
+
+        <item>大王庄</item>
+
+        <item>十一经路</item>
+
+        <item>直沽</item>
+
+        <item>东兴路</item>
+
+        <item>中山门</item>
+
+        <item>一号桥</item>
+
+        <item>二号桥</item>
+
+        <item>张贵庄</item>
+
+        <item>新立</item>
+
+        <item>东丽开发区</item>
+
+        <item>小东庄</item>
+
+        <item>军粮城</item>
+
+        <item>钢管公司</item>
+
+        <item>胡家园</item>
+
+        <item>塘沽</item>
+
+        <item>泰达</item>
+
+        <item>市民广场</item>
+
+        <item>太湖路</item>
+
+        <item>会展中心</item>
+
+        <item>东海路</item>
+
+    </string-array>
+
+</resources>
